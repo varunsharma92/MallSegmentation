@@ -1,17 +1,16 @@
 astroid==2.4.2
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+
 autopep8==1.5.4
 blis==0.4.1
 brotlipy==0.7.0
 catalogue==1.0.0
 certifi==2020.6.20
-cffi @ file:///D:/bld/cffi_1602537433319/work
-chardet @ file:///D:/bld/chardet_1602255508636/work
+
+
 click==7.1.2
 colorama==0.4.4
-cryptography @ file:///D:/bld/cryptography_1603815560153/work
+
 cycler==0.10.0
-cymem @ file:///D:/bld/cymem_1603365659192/work
 Cython==0.29.14
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
 Flask==1.1.2
