@@ -61,10 +61,7 @@ smart-open==3.0.0
 sortedcontainers==2.2.2
 
 toml==0.10.1
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1603658198734/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
-wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1600272362626/work
-Werkzeug==1.0.1
+
 
 wincertstore==0.2
 wrapt==1.12.1
