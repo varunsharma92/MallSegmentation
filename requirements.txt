@@ -1,0 +1,76 @@
+astroid==2.4.2
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1599308529326/work
+autopep8==1.5.4
+blis==0.4.1
+brotlipy==0.7.0
+catalogue==1.0.0
+certifi==2020.6.20
+cffi @ file:///D:/bld/cffi_1602537433319/work
+chardet @ file:///D:/bld/chardet_1602255508636/work
+click==7.1.2
+colorama==0.4.4
+cryptography @ file:///D:/bld/cryptography_1603815560153/work
+cycler==0.10.0
+cymem @ file:///D:/bld/cymem_1603365659192/work
+Cython==0.29.14
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+Flask==1.1.2
+gensim==3.8.3
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+isort==5.6.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.17.0
+jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1602551949684/work
+kiwisolver==1.3.0
+lazy-object-proxy==1.4.3
+MarkupSafe==1.1.1
+matplotlib==3.3.2
+mccabe==0.6.1
+murmurhash==1.0.2
+nltk==3.5
+numpy @ file:///D:/bld/numpy_1602429360191/work
+openai==0.2.6
+opencv-python==4.4.0.44
+panda==0.3.1
+pandas==1.1.3
+pdfminer==20191125
+pdfminer.six==20181108
+Pillow==8.0.1
+plac==1.1.3
+preshed @ file:///D:/bld/preshed_1603372486911/work
+pycodestyle==2.6.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pycryptodome==3.9.8
+pylint==2.6.0
+pyOpenSSL==19.1.0
+pyparsing==2.4.7
+PyPDF2==1.26.0
+pyrsistent @ file:///D:/bld/pyrsistent_1602260190341/work
+PySocks @ file:///D:/bld/pysocks_1602327034683/work
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+regex==2020.10.23
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+scikit-learn==0.23.2
+scipy==1.5.3
+seaborn==0.11.0
+six==1.15.0
+sklearn==0.0
+smart-open==3.0.0
+sortedcontainers==2.2.2
+spacy @ file:///D:/bld/spacy_1594659336038/work
+srsly @ file:///D:/bld/srsly_1589222558378/work
+thinc @ file:///D:/bld/thinc_1590400582572/work
+threadpoolctl==2.1.0
+toml==0.10.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1603658198734/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
+wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1600272362626/work
+Werkzeug==1.0.1
+win-inet-pton @ file:///D:/bld/win_inet_pton_1602260115377/work
+wincertstore==0.2
+wrapt==1.12.1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
