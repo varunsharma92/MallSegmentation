@@ -59,10 +59,7 @@ six==1.15.0
 sklearn==0.0
 smart-open==3.0.0
 sortedcontainers==2.2.2
-spacy @ file:///D:/bld/spacy_1594659336038/work
-srsly @ file:///D:/bld/srsly_1589222558378/work
-thinc @ file:///D:/bld/thinc_1590400582572/work
-threadpoolctl==2.1.0
+
 toml==0.10.1
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1603658198734/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
