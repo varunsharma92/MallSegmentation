@@ -38,21 +38,20 @@ pdfminer==20191125
 pdfminer.six==20181108
 Pillow==8.0.1
 plac==1.1.3
-preshed @ file:///D:/bld/preshed_1603372486911/work
+
 pycodestyle==2.6.0
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+
 pycryptodome==3.9.8
 pylint==2.6.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
-pyrsistent @ file:///D:/bld/pyrsistent_1602260190341/work
-PySocks @ file:///D:/bld/pysocks_1602327034683/work
+
 python-dateutil==2.8.1
 pytz==2020.1
 PyYAML==5.3.1
 regex==2020.10.23
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1592425495151/work
+
 scikit-learn==0.23.2
 scipy==1.5.3
 seaborn==0.11.0
@@ -69,7 +68,7 @@ tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1603658198734/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
 wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1600272362626/work
 Werkzeug==1.0.1
-win-inet-pton @ file:///D:/bld/win_inet_pton_1602260115377/work
+
 wincertstore==0.2
 wrapt==1.12.1
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
+
