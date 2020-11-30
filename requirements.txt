@@ -5,7 +5,7 @@ blis==0.4.1
 brotlipy==0.7.0
 catalogue==1.0.0
 certifi==2020.6.20
-
+numpy==1.18.5
 
 click==7.1.2
 colorama==0.4.4
@@ -29,7 +29,7 @@ matplotlib==3.3.2
 mccabe==0.6.1
 murmurhash==1.0.2
 nltk==3.5
-numpy @ file:///D:/bld/numpy_1602429360191/work
+
 openai==0.2.6
 opencv-python==4.4.0.44
 panda==0.3.1
